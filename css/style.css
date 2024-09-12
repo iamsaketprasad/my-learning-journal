@@ -318,4 +318,9 @@ footer {
         align-items: center;
         gap: 2em;
     }
+
+    .about-me-article {
+        max-width: 800px;
+        margin: 0 auto;
+    }
 }  
