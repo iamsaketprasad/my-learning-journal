@@ -319,7 +319,7 @@ footer {
         gap: 2em;
     }
 
-    .about-me-article {
+    .about-me-article, .article-text-box {
         max-width: 800px;
         margin: 0 auto;
     }
